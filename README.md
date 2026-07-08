@@ -2,7 +2,7 @@
 Description of the repository/project goes here. 
 
 You can also add a figure here, for example this one:
-![Tux, the Linux mascot](/assets/images/tux.png)
+![IdPDE logo](/figures/logo_idpde.png)
 
 
 

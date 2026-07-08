@@ -1,6 +1,11 @@
 # Title of the repository
 Description of the repository/project goes here. 
 
+You can also add a figure here, for example this one:
+![Tux, the Linux mascot](/assets/images/tux.png)
+
+
+
 Description of test environment (e.g., linux & ROS2 distributions, other conditions).
 For example: Tested in ROS2 Jazzy Jalisco.
 > [!NOTE]
